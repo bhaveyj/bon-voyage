@@ -4,6 +4,14 @@ Bon Voyage is a full-stack AI-powered travel recommendation platform that helps 
 It includes features like AI-generated travel plans, live currency conversion, a global temperature heatmap, and flight search capabilities.
 
 ---
+# Demo Video
+
+
+https://github.com/user-attachments/assets/ab3512aa-3fac-431b-8f2c-2948a995dd0b
+
+
+
+
 
 ## 🚀 Features
 

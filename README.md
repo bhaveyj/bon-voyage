@@ -6,11 +6,11 @@ It includes features like AI-generated travel plans, live currency conversion, a
 ---
 # Demo Video
 
-
 https://github.com/user-attachments/assets/ab3512aa-3fac-431b-8f2c-2948a995dd0b
 
+# Report
 
-
+[Seminar_Project_Report.pdf](https://github.com/user-attachments/files/19868531/Seminar_Project_Report.pdf)
 
 
 ## 🚀 Features

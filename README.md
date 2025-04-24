@@ -16,6 +16,13 @@ https://github.com/user-attachments/assets/ab3512aa-3fac-431b-8f2c-2948a995dd0b
 
 ---
 
+#PPT
+
+[Project_PPT.pptx](https://github.com/user-attachments/files/19881766/Project_PPT.pptx)
+
+---
+
+
 ## 🚀 Features
 
 - 🌍 **AI Travel Recommendations** – Get personalized travel plans based on your preferences using the Gemini API.
